@@ -29,8 +29,9 @@ This project implements autonomous navigation, obstacle avoidance, and target tr
 <h2>Project Implementation</h2>
 
 <p align="center">
+ 
 Robot Hardware Setup: <br/>
-![Pioneer 3-DX](media/robot-setup.jpg) <!-- Replace with your image -->
+![Pioneer 3-DX](Robot.png) <!-- Replace with your image -->
 <br />
 <br />
 
@@ -39,8 +40,8 @@ Navigation Map:  <br/>
 <br />
 <br />
 
-Odometry Trajectory:  <br/>
-![Trajectory Results](media/trajectory-plot.png) <!-- Replace with your image -->
+Odometry Plan:  <br/>
+![Trajectory Results](Odometrymovement.png) <!-- Replace with your image -->
 </p>
 
 <h2>Key Features</h2>
