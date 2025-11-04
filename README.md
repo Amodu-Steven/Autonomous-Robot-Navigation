@@ -35,7 +35,7 @@ Robot Hardware Setup: <br/>
 <br />
 
 Navigation Map:  <br/>
-![Living Lab Map](media/lab-map.png) <!-- Replace with your image -->
+![Living Lab Map](Nodes.png) <!-- Replace with your image -->
 <br />
 <br />
 
